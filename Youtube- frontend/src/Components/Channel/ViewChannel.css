@@ -1,0 +1,108 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  /* Channel Banner */
+  .channel-container {
+    margin: 20px;
+  }
+  
+  .banner {
+    display: flex;
+    align-items: center;
+    background-color: #e5f3ff;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+  
+  .profile {
+    display: flex;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .profile-pic {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-right: 20px;
+  }
+  
+  .profile-details {
+    flex-grow: 1;
+  }
+  
+  .profile-details h1 {
+    font-size: 24px;
+    margin: 0;
+  }
+  
+  .profile-details p {
+    margin: 5px 0;
+  }
+  
+  .subscribe-button {
+    background-color: #3D246C;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-left: 10px;
+  }
+  
+
+  .delete-button{
+    margin-left: 10px;
+    background-color: #cc0000;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  .subscribe-button.subscribed {
+    background-color: #4caf50;
+  }
+  
+  .subscribe-button:hover {
+    background-color: #ff3333;
+  }
+  
+  /* Video Grid Section */
+  .video-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+    padding: 20px 0;
+  }
+  
+  .video-card {
+    text-align: center;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    padding: 10px;
+  }
+  
+  .video-thumbnail {
+    width: 100%;
+    border-radius: 8px;
+  }
+  
+  .video-card h3 {
+    font-size: 16px;
+    margin-top: 10px;
+    font-weight: 600;
+  }
+  

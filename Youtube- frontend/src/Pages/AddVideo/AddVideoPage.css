@@ -1,0 +1,97 @@
+/* Main container */
+.add-video-container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Header */
+.add-video-container h2 {
+    text-align: center;
+    color: #3D246C;
+    margin-bottom: 20px;
+}
+
+/* Form styling */
+.add-video-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-group label {
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 5px;
+}
+
+.form-group input,
+.form-group textarea {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.form-group input:focus,
+.form-group textarea:focus {
+    border-color: #3D246C;
+    box-shadow: 0 0 5px rgba(61, 36, 108, 0.5);
+    outline: none;
+}
+
+textarea {
+    resize: none;
+    height: 100px;
+}
+
+/* Button styling */
+.add-video-button {
+    padding: 12px;
+    background-color: #3D246C;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.add-video-button:hover {
+    background-color: #2a194e;
+}
+
+/* Error and Success messages */
+.error-message {
+    color: red;
+    font-size: 14px;
+    text-align: center;
+}
+
+.success-message {
+    color: green;
+    font-size: 14px;
+    text-align: center;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .add-video-container {
+        padding: 15px;
+        margin: 20px;
+    }
+
+    .add-video-button {
+        font-size: 14px;
+    }
+}

@@ -1,0 +1,13 @@
+.chip{
+    border-radius: 20px;
+    background-color: #EBEBEB;
+    font-size: 14px;
+    color: black;
+    box-shadow:  2px 2px 2px rgba(1, 1, 1, 0.02);
+    cursor: pointer;
+}
+
+.selected{
+    color: white;
+    background-color: black;
+}

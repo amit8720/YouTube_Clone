@@ -1,0 +1,97 @@
+[{
+  "_id": {
+    "$oid": "675fb99c8455f761fdd9a649"
+  },
+  "channelName": "WebTech",
+  "owner": {
+    "$oid": "675ab9587bc3d21d9d5994bf"
+  },
+  "description": "Web Technology refers to the tools, frameworks, programming languages, and protocols used to develop websites and web applications that run on the internet or intranet. It encompasses both the front-end (what users interact with) and the back-end (server-side processes) aspects of web development.",
+  "channelLogo": "https://cdn-icons-png.flaticon.com/128/2202/2202112.png",
+  "channelBanner": "https://cdn-icons-png.flaticon.com/128/2202/2202112.png",
+  "subscribers": [],
+  "videos": [
+    {
+      "$oid": "675fb9d98455f761fdd9a65f"
+    },
+    {
+      "$oid": "675fba758455f761fdd9a672"
+    },
+    {
+      "$oid": "675fba868455f761fdd9a677"
+    },
+    {
+      "$oid": "675fba958455f761fdd9a67c"
+    },
+    {
+      "$oid": "675fbaa68455f761fdd9a681"
+    },
+    {
+      "$oid": "675fbab68455f761fdd9a686"
+    },
+    {
+      "$oid": "675fbac18455f761fdd9a68b"
+    },
+    {
+      "$oid": "675fbace8455f761fdd9a690"
+    },
+    {
+      "$oid": "675fbae28455f761fdd9a695"
+    },
+    {
+      "$oid": "675fbaf78455f761fdd9a69a"
+    },
+    {
+      "$oid": "675fbb058455f761fdd9a69f"
+    },
+    {
+      "$oid": "675fbb0f8455f761fdd9a6a4"
+    },
+    {
+      "$oid": "675fbb1b8455f761fdd9a6a9"
+    },
+    {
+      "$oid": "675fbb2e8455f761fdd9a6b5"
+    },
+    {
+      "$oid": "675fbb3a8455f761fdd9a6ba"
+    },
+    {
+      "$oid": "675fbb4f8455f761fdd9a6c6"
+    },
+    {
+      "$oid": "675fbb7e8455f761fdd9a6d2"
+    },
+    {
+      "$oid": "675fbb928455f761fdd9a6db"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-12-16T05:24:44.589Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T05:33:06.212Z"
+  },
+  "__v": 18
+},
+{
+  "_id": {
+    "$oid": "675fbd9f8455f761fdd9a7e5"
+  },
+  "channelName": "b",
+  "owner": {
+    "$oid": "675fbbd38455f761fdd9a6ec"
+  },
+  "description": "bb",
+  "channelLogo": "https://cdn-icons-png.flaticon.com/128/2202/2202112.png",
+  "channelBanner": "https://cdn-icons-png.flaticon.com/128/560/560216.png",
+  "subscribers": [],
+  "videos": [],
+  "createdAt": {
+    "$date": "2024-12-16T05:41:51.463Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T05:41:51.463Z"
+  },
+  "__v": 0
+}]

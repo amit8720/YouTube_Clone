@@ -1,0 +1,488 @@
+[{
+  "_id": {
+    "$oid": "675fb9d98455f761fdd9a65f"
+  },
+  "title": "Reality of my Google Salary after TAXES",
+  "thumbnailUrl": "https://img.youtube.com/vi/WompUzXiHZE/maxresdefault.jpg",
+  "videoUrl": "https://www.youtube.com/embed/WompUzXiHZE",
+  "description": "Upskill yourself as an SDE with 100% job switch assistance in top product-based company 🚀 ➡  https://bit.ly/3ZGUuay",
+  "channelId": {
+    "$oid": "675fb99c8455f761fdd9a649"
+  },
+  "uploader": {
+    "$oid": "675ab9587bc3d21d9d5994bf"
+  },
+  "likes": [],
+  "dislikes": [],
+  "views": 1002,
+  "category": "Infotainment",
+  "uploadedDate": {
+    "$date": "2024-12-16T05:06:06.833Z"
+  },
+  "comments": [],
+  "createdAt": {
+    "$date": "2024-12-16T05:25:45.271Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T05:58:48.161Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fba758455f761fdd9a672"
+  },
+  "title": "How Do You Get Started With Spirituality? | Sadhguru",
+  "thumbnailUrl": "https://img.youtube.com/vi/fdHjqVEQvLw/sddefault.jpg",
+  "videoUrl": "https://www.youtube.com/embed/fdHjqVEQvLw",
+  "description": "Sadhguru explains that everyone is already on the spiritual path. The desire for more money, power, knowledge or anything else is a spiritual process too, but mostly misguided and conducted unconsciously. What needs to be done is to become more conscious and aware.",
+  "channelId": {
+    "$oid": "675fb99c8455f761fdd9a649"
+  },
+  "uploader": {
+    "$oid": "675ab9587bc3d21d9d5994bf"
+  },
+  "likes": [],
+  "dislikes": [
+    {
+      "$oid": "675fbbd38455f761fdd9a6ec"
+    }
+  ],
+  "views": 1013,
+  "category": "Spiritual",
+  "uploadedDate": {
+    "$date": "2024-12-16T05:06:06.833Z"
+  },
+  "comments": [
+    {
+      "$oid": "675fbd418455f761fdd9a79d"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-12-16T05:28:21.154Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T05:41:09.172Z"
+  },
+  "__v": 5
+},
+{
+  "_id": {
+    "$oid": "675fba868455f761fdd9a677"
+  },
+  "title": "Akshay Kumar x Harsh Gujral | Roast Standup Comedy",
+  "thumbnailUrl": "https://img.youtube.com/vi/FtDv-L1stdo/sddefault.jpg",
+  "videoUrl": "https://www.youtube.com/embed/FtDv-L1stdo",
+  "description": "Witness this amazing banter between The Khiladi of all time and Anari. I have never thought I would get a chance to share the stage with Akshay Sir this is a dream come true moment.",
+  "channelId": {
+    "$oid": "675fb99c8455f761fdd9a649"
+  },
+  "uploader": {
+    "$oid": "675ab9587bc3d21d9d5994bf"
+  },
+  "likes": [],
+  "dislikes": [],
+  "views": 1002,
+  "category": "Comedy",
+  "uploadedDate": {
+    "$date": "2024-12-16T05:06:06.833Z"
+  },
+  "comments": [],
+  "createdAt": {
+    "$date": "2024-12-16T05:28:38.723Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T05:40:35.682Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fba958455f761fdd9a67c"
+  },
+  "title": "PURCHASING WORLD'S FASTEST BIKE🔥",
+  "thumbnailUrl": "https://img.youtube.com/vi/8z5UTt_WKrg/sddefault.jpg",
+  "videoUrl": "https://www.youtube.com/embed/8z5UTt_WKrg",
+  "description": "Join us for an exciting and action-packed gaming session in this epic adventure! Watch as we dive into thrilling gameplay, uncover hidden secrets, and master new challenges. Whether you're a casual gamer or a hardcore enthusiast, this video has something for everyone.",
+  "channelId": {
+    "$oid": "675fb99c8455f761fdd9a649"
+  },
+  "uploader": {
+    "$oid": "675ab9587bc3d21d9d5994bf"
+  },
+  "likes": [],
+  "dislikes": [],
+  "views": 1000,
+  "category": "Gaming",
+  "uploadedDate": {
+    "$date": "2024-12-16T05:06:06.833Z"
+  },
+  "comments": [],
+  "createdAt": {
+    "$date": "2024-12-16T05:28:53.647Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T05:28:53.647Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fbaa68455f761fdd9a681"
+  },
+  "title": "Complete Git & GitHub Tutorial for Beginners | Internshala Clubs",
+  "thumbnailUrl": "https://img.youtube.com/vi/38oTAIZ0sn8/sddefault.jpg",
+  "videoUrl": "https://www.youtube.com/embed/38oTAIZ0sn8",
+  "description": "Want to master Git and GitHub but don’t know where to start? This beginner-friendly session is perfect for you! In just 60 minutes, you’ll learn the basics of version control, how to use Git commands and the essentials of collaborating on GitHub.",
+  "channelId": {
+    "$oid": "675fb99c8455f761fdd9a649"
+  },
+  "uploader": {
+    "$oid": "675ab9587bc3d21d9d5994bf"
+  },
+  "likes": [],
+  "dislikes": [],
+  "views": 1000,
+  "category": "Infotainment",
+  "uploadedDate": {
+    "$date": "2024-12-16T05:06:06.833Z"
+  },
+  "comments": [],
+  "createdAt": {
+    "$date": "2024-12-16T05:29:10.795Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T05:29:10.795Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fbab68455f761fdd9a686"
+  },
+  "title": "CHEESE STICKS | Indian Paneer Sticks Recipe By Granny | Indian Street Food | Veg Village Food",
+  "thumbnailUrl": "https://img.youtube.com/vi/gQJUw1dS9T0/sddefault.jpg",
+  "videoUrl": "https://www.youtube.com/embed/gQJUw1dS9T0",
+  "description": " Craving a delicious and crispy snack? Look no further than these Cheese Sticks, an irresistible treat made with Indian Paneer! In this recipe, Granny shares her secret to making perfect, golden, and crunchy cheese sticks that are an absolute hit at any gathering.Packed with the rich flavor of paneer, these crispy sticks are coated with a spiced batter, deep-fried to perfection, and served hot with tangy chutneys. Whether you're craving a savory snack or looking for a street food-inspired delight, these Indian Cheese Sticks are a must-try!",
+  "channelId": {
+    "$oid": "675fb99c8455f761fdd9a649"
+  },
+  "uploader": {
+    "$oid": "675ab9587bc3d21d9d5994bf"
+  },
+  "likes": [],
+  "dislikes": [],
+  "views": 1004,
+  "category": "Food",
+  "uploadedDate": {
+    "$date": "2024-12-16T05:06:06.833Z"
+  },
+  "comments": [],
+  "createdAt": {
+    "$date": "2024-12-16T05:29:26.316Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T05:40:40.232Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fbac18455f761fdd9a68b"
+  },
+  "title": "Investment Hacks, Vacations, Shopping & Personal Finance - Vikas Jain | Multipl | FO 257 Raj Shamani",
+  "thumbnailUrl": "https://img.youtube.com/vi/Cda-fUJ-GjE/sddefault.jpg",
+  "videoUrl": "https://www.youtube.com/embed/Cda-fUJ-GjEc",
+  "description": " In this episode of Figuring Out with Raj Shamani, we sit down with Vikas Jain, the co-founder of Multipl, to unravel the secrets of smart financial planning. From investment hacks to budgeting for vacations, balancing shopping sprees, and mastering personal finance, this episode is a must-watch for anyone looking to take control of their money and plan for a secure future.Learn how to save, invest, and spend smarter with insights that simplify the often-complicated world of finance. Vikas Jain shares actionable tips, relatable stories, and innovative strategies that can transform the way you think about money.",
+  "channelId": {
+    "$oid": "675fb99c8455f761fdd9a649"
+  },
+  "uploader": {
+    "$oid": "675ab9587bc3d21d9d5994bf"
+  },
+  "likes": [],
+  "dislikes": [],
+  "views": 1000,
+  "category": "Podcasts",
+  "uploadedDate": {
+    "$date": "2024-12-16T05:06:06.833Z"
+  },
+  "comments": [],
+  "createdAt": {
+    "$date": "2024-12-16T05:29:37.612Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T05:29:37.612Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fbace8455f761fdd9a690"
+  },
+  "title": "Dr. Sanjiv Goenka Aur Ranveer Ka Unfiltered Podcast - Family Legacy, LSG, IPL Aur Zindagi | TRS",
+  "thumbnailUrl": "https://img.youtube.com/vi/QdbOFSQyyDc/sddefault.jpg",
+  "videoUrl": "https://www.youtube.com/embed/QdbOFSQyyDc",
+  "description": " Dive into an inspiring and candid conversation as Dr. Sanjiv Goenka joins Ranveer Allahbadia on The Ranveer Show (TRS) for an unfiltered podcast episode. From discussing the legacy of the illustrious Goenka family to sharing insights into the journey of owning Lucknow Super Giants (LSG) in the IPL, Dr. Goenka delves deep into his life experiences, entrepreneurial journey, and philosophies on leadership, business, and zindagi (life).  Whether you're an IPL fan a business enthusiast or someone looking for life lessons this episode has something for everyone. Get ready for an engaging discussion filled with wisdom laughter and valuable takeaways.",
+  "channelId": {
+    "$oid": "675fb99c8455f761fdd9a649"
+  },
+  "uploader": {
+    "$oid": "675ab9587bc3d21d9d5994bf"
+  },
+  "likes": [],
+  "dislikes": [],
+  "views": 1000,
+  "category": "Podcasts",
+  "uploadedDate": {
+    "$date": "2024-12-16T05:06:06.833Z"
+  },
+  "comments": [],
+  "createdAt": {
+    "$date": "2024-12-16T05:29:50.873Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T05:29:50.873Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fbae28455f761fdd9a695"
+  },
+  "title": "Bassi & Kapil Sharma REVEAL Comedy Secrets, On-Set Moments & More with the Gang | TGIKS | Netflix",
+  "thumbnailUrl": "https://img.youtube.com/vi/QbNv1LMPdPI/sddefault.jpg",
+  "videoUrl": "https://www.youtube.com/embed/QbNv1LMPdPI",
+  "description": "Prepare yourselves for comedy with a side of inspiration as Kapil Sharma, Kiku Sharda, Archana Puran Singh, Krushna Abhishek, Rajiv Thakur and Sunil Grover discuss their hilarious in-between moments while recalling the time they realised how they made it to being a household name. From impromptu script changes to onstage improvisation, watch the group discuss it all with Anubhav Singh Bassi.",
+  "channelId": {
+    "$oid": "675fb99c8455f761fdd9a649"
+  },
+  "uploader": {
+    "$oid": "675ab9587bc3d21d9d5994bf"
+  },
+  "likes": [],
+  "dislikes": [],
+  "views": 1000,
+  "category": "Comedy",
+  "uploadedDate": {
+    "$date": "2024-12-16T05:06:06.833Z"
+  },
+  "comments": [],
+  "createdAt": {
+    "$date": "2024-12-16T05:30:10.791Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T05:30:10.791Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fbaf78455f761fdd9a69a"
+  },
+  "title": "Ekantik Vartalaap & Darshan/ 13-12-2024/ Shri Hit Premanand Govind Sharan Ji Maharaj",
+  "thumbnailUrl": "https://img.youtube.com/vi/iOG7wzFVxCc/sddefault.jpg",
+  "videoUrl": "https://www.youtube.com/embed/iOG7wzFVxCc",
+  "description": "Join Shri Hit Premanand Govind Sharan Ji Maharaj for an enlightening session of Ekantik Vartalaap and Darshan on 13-12-2024. This session provides deep spiritual insights and teachings to elevate your mind and soul. A must-watch for spiritual seekers.",
+  "channelId": {
+    "$oid": "675fb99c8455f761fdd9a649"
+  },
+  "uploader": {
+    "$oid": "675ab9587bc3d21d9d5994bf"
+  },
+  "likes": [],
+  "dislikes": [],
+  "views": 1000,
+  "category": "Spiritual",
+  "uploadedDate": {
+    "$date": "2024-12-16T05:06:06.833Z"
+  },
+  "comments": [],
+  "createdAt": {
+    "$date": "2024-12-16T05:30:31.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T05:30:31.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fbb058455f761fdd9a69f"
+  },
+  "title": "I Found Crocodile In Hampi Lake | Elvish Yadav Vlogs",
+  "thumbnailUrl": "https://img.youtube.com/vi/cpahRtySHxI/sddefault.jpg",
+  "videoUrl": "https://www.youtube.com/embed/cpahRtySHxI",
+  "description": "In this exciting vlog, Elvish Yadav explores Hampi Lake and makes an incredible discovery – a crocodile! Watch as Elvish shares his experience and adventure at one of India's most beautiful and mysterious locations. Don't miss this thrilling vlog filled with adventure and wildlife!",
+  "channelId": {
+    "$oid": "675fb99c8455f761fdd9a649"
+  },
+  "uploader": {
+    "$oid": "675ab9587bc3d21d9d5994bf"
+  },
+  "likes": [],
+  "dislikes": [],
+  "views": 1000,
+  "category": "Vlogs",
+  "uploadedDate": {
+    "$date": "2024-12-16T05:06:06.833Z"
+  },
+  "comments": [],
+  "createdAt": {
+    "$date": "2024-12-16T05:30:45.771Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T05:30:45.771Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fbb0f8455f761fdd9a6a4"
+  },
+  "title": "I LOST EVERYTHING | MOTEL MANAGER GAMEPLAY ",
+  "thumbnailUrl": "https://img.youtube.com/vi/WGEM7wVcOis/sddefault.jpg",
+  "videoUrl": "https://www.youtube.com/embed/WGEM7wVcOis",
+  "description": "Techno Gamerz is a YouTube Channel where you will find gaming videos in Hindi I hope this video was Useful and you liked it, if you did press the thumbs up button.",
+  "channelId": {
+    "$oid": "675fb99c8455f761fdd9a649"
+  },
+  "uploader": {
+    "$oid": "675ab9587bc3d21d9d5994bf"
+  },
+  "likes": [],
+  "dislikes": [],
+  "views": 1000,
+  "category": "Gaming",
+  "uploadedDate": {
+    "$date": "2024-12-16T05:06:06.833Z"
+  },
+  "comments": [],
+  "createdAt": {
+    "$date": "2024-12-16T05:30:55.901Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T05:30:55.901Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fbb1b8455f761fdd9a6a9"
+  },
+  "title": "Free Fire But Only New Shotgun M590 Challenge 😎 Tonde Gamer",
+  "thumbnailUrl": "https://img.youtube.com/vi/hVSUU6nxyUI/sddefault.jpg",
+  "videoUrl": "https://www.youtube.com/embed/hVSUU6nxyUI",
+  "description": "➡️ About Me: Hey guys, my name is Sarju Giri & i'm from Nepal. I do commentary in hindi so that more people can understand me and play solo, solo vs squad, duo, squad vs squad, Clash Squad, Custom Vs with Big Youtubers, Subscribers, Grandmaster top 1 Players & also do Noob prank game play. Not Only this, i'm pushing my Rank for Top 1 Grandmaster !! So, now you know what to do, Subscribe !!",
+  "channelId": {
+    "$oid": "675fb99c8455f761fdd9a649"
+  },
+  "uploader": {
+    "$oid": "675ab9587bc3d21d9d5994bf"
+  },
+  "likes": [],
+  "dislikes": [],
+  "views": 1000,
+  "category": "Gaming",
+  "uploadedDate": {
+    "$date": "2024-12-16T05:06:06.833Z"
+  },
+  "comments": [],
+  "createdAt": {
+    "$date": "2024-12-16T05:31:07.439Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T05:31:07.439Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fbb2e8455f761fdd9a6b5"
+  },
+  "title": "Kadhai Paneer Recipe | सबसे स्वादिष्ट कढ़ाई पनीर | Easy Kadai Paneer a…",
+  "thumbnailUrl": "https://img.youtube.com/vi/nRPmoioNisI/sddefault.jpg",
+  "videoUrl": "https://www.youtube.com/embed/nRPmoioNisI",
+  "description": "Learn how to make the most delicious Kadhai Paneer with Chef Ranveer Brar in this easy-to-follow recipe! Kadhai Paneer is a popular Indian dish made with paneer (Indian cottage cheese) cooked in a spicy, aromatic gravy with bell peppers, onions, tomatoes, and a blend of traditional Indian spices. Chef Ranveer Brar shares his expert tips and techniques to help you prepare this restaurant-style dish at home, perfect for any occasion. With its rich, flavorful gravy and the soft, melt-in-your-mouth paneer, Kadhai Paneer is sure to be a hit with your family and friends!",
+  "channelId": {
+    "$oid": "675fb99c8455f761fdd9a649"
+  },
+  "uploader": {
+    "$oid": "675ab9587bc3d21d9d5994bf"
+  },
+  "likes": [],
+  "dislikes": [],
+  "views": 1000,
+  "category": "Food",
+  "uploadedDate": {
+    "$date": "2024-12-16T05:06:06.833Z"
+  },
+  "comments": [],
+  "createdAt": {
+    "$date": "2024-12-16T05:31:26.131Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T05:31:26.131Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fbb3a8455f761fdd9a6ba"
+  },
+  "title": "Mere Mehboob | Vicky Vidya Ka Woh Wala Video | Rajkummar | Triptii Dim",
+  "thumbnailUrl": "https://img.youtube.com/vi/UdsO4SM4wKI/sddefault.jpg",
+  "videoUrl": "https://www.youtube.com/embed/UdsO4SM4wKI",
+  "description": "Get ready to experience the charm of love and emotions with Mere Mehboob a beautiful melody from Vicky Vidya Ka Woh Wala Video featuring the versatile Rajkummar Rao and the stunning Triptii Dimri.Composed by the talented duo Sachin-Jigar with soulful vocals by Shilpa Rao and Sachet Tandon this song perfectly captures the essence of romance. Watch the captivating chemistry between Rajkummar and Triptii unfold in this heartfelt number that promises to stay with you long after it ends. Tune in and let your heart be touched by this melodious ode to love. Don’t forget to share it with your mehboob! ❤️",
+  "channelId": {
+    "$oid": "675fb99c8455f761fdd9a649"
+  },
+  "uploader": {
+    "$oid": "675ab9587bc3d21d9d5994bf"
+  },
+  "likes": [],
+  "dislikes": [],
+  "views": 1000,
+  "category": "Songs",
+  "uploadedDate": {
+    "$date": "2024-12-16T05:06:06.833Z"
+  },
+  "comments": [],
+  "createdAt": {
+    "$date": "2024-12-16T05:31:38.328Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T05:31:38.328Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fbb4f8455f761fdd9a6c6"
+  },
+  "title": "New Ghar Pe Thar Dal Di ",
+  "thumbnailUrl": "https://img.youtube.com/vi/iClWWkCKCpE/sddefault.jpg",
+  "videoUrl": "https://www.youtube.com/embed/iClWWkCKCpE",
+  "description": "I hope you enjoyed this video hit likes. And do subscribe to my channel Thank you so much for watching god bless you all.lots of  ❤️",
+  "channelId": {
+    "$oid": "675fb99c8455f761fdd9a649"
+  },
+  "uploader": {
+    "$oid": "675ab9587bc3d21d9d5994bf"
+  },
+  "likes": [],
+  "dislikes": [],
+  "views": 1002,
+  "category": "Vlogs",
+  "uploadedDate": {
+    "$date": "2024-12-16T05:06:06.833Z"
+  },
+  "comments": [],
+  "createdAt": {
+    "$date": "2024-12-16T05:31:59.451Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T05:35:04.173Z"
+  },
+  "__v": 0
+}]

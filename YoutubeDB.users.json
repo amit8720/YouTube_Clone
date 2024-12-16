@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "675ab9587bc3d21d9d5994bf"
+  },
+  "userName": "Amit",
+  "email": "amit@gmail.com",
+  "password": "$2b$10$U4paJENTsltSvADH2dMnHuI2et7ghtTEwqwaDDv72GXE9QU6qRNOO",
+  "avatar": "https://cdn-icons-png.flaticon.com/128/9437/9437514.png",
+  "subscriptions": [],
+  "channel": [
+    {
+      "$oid": "675fb99c8455f761fdd9a649"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-12-12T10:22:16.193Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T05:24:44.595Z"
+  },
+  "__v": 12
+},
+{
+  "_id": {
+    "$oid": "675fbbd38455f761fdd9a6ec"
+  },
+  "userName": "renu",
+  "email": "renu@gmail.com",
+  "password": "$2b$10$VfsaunvDe3yOkFJtoOei5uzNw8.pu4qiw2vmwqzTZDsUG1OtirFga",
+  "avatar": "https://cdn-icons-png.flaticon.com/128/6997/6997662.png",
+  "subscriptions": [],
+  "channel": [
+    {
+      "$oid": "675fbd9f8455f761fdd9a7e5"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-12-16T05:34:11.667Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T05:41:51.466Z"
+  },
+  "__v": 2
+}]
